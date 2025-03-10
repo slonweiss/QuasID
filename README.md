@@ -92,17 +92,6 @@ jupyter notebook
 2. Open `QuasID.ipynb`
 3. Follow the step-by-step sections in order
 
-## Performance
-
-The model achieved impressive results on the test set:
-
-- Accuracy: 100%
-- Precision: 100%
-- Recall: 100%
-- F1 Score: 100%
-
-Note: These results should be taken with appropriate caution and further peer review is recommended.
-
 ## Limitations and Challenges
 
 1. Hardware Constraints:
